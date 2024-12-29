@@ -9,9 +9,9 @@ I'm a software engineer with Understanding in User Design Experience, I build To
 
 - 🔭 I’m currently working on An agentic digital twin
 
-- 🌱 I’m currently learning About Algo and the Algorand community
+- 🌱 I’m currently learning About Algorand and the Algorand community
 
-- 👯 I’m looking to collaborate on Web3 and AI Projects with React Python and Typescript
+- 👯 I’m looking to collaborate on Web3 and AI Projects with React, Python and Typescript
 
 
 - 💬 Ask me about: web development😅, really.
