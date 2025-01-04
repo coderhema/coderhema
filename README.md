@@ -21,6 +21,6 @@ I'm a software engineer with Understanding in User Design Experience, I build To
 - ⚡ Fun fact: Creating a digi twin is fun
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Opedepodepes-Olugbemi)](https://github.com/Opedepodepes-Olugbemi)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=coderhema)](https://github.com/Opedepodepes-Olugbemi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opedepodepes-Olugbemi&layout=compact)](https://github.com/Opedepodepes-Olugbemi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderhema&layout=compact)](https://github.com/Opedepodepes-Olugbemi)
