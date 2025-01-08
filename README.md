@@ -18,7 +18,7 @@ I'm a software engineer with Understanding in User Design Experience, I build To
 
 - 📫 How to reach me: olugbemiopedepo@gmail.com
 
-- ⚡ Fun fact: Creating a digi twin is fun
+- ⚡ Fun fact: Creating a digi twin will be fun
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=coderhema)](https://github.com/Opedepodepes-Olugbemi)
