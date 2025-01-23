@@ -27,7 +27,3 @@ I develop mobile and web software, create technical content, and love contributi
 - 💬 Ask me about web development 😅.
 - 📫 Reach me at: [olugbemiopedepo@gmail.com](mailto:olugbemiopedepo@gmail.com).
 - ⚡ Fun fact: Creating a digital twin will be fun!
-
-### GitHub Stats:
-![Coderhema's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderhema&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderhema&layout=compact&theme=radical)
