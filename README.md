@@ -4,7 +4,7 @@
 [![Linkedin: Coderhema](https://img.shields.io/badge/Coderhema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderhema/)](https://www.linkedin.com/in/coderhema/)
 [![Twitter: Coderhema](https://img.shields.io/twitter/follow/coderhema?style=social)](https://twitter.com/coderhema)
 
-I develop mobile and web software, create technical content, and love contributing to open-source projects in my free time. I also enjoy meeting new people and learning new things!
+I develop mobile and web software, I also enjoy meeting new people and learning new things!
 
 ### My Technical Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@ I develop mobile and web software, create technical content, and love contributi
 ### What I'm Up To:
 - 🔭 Working on an agentic digital twin.
 - 🌱 Learning about Algorand and the Algorand community.
-- 👯 Collaborating on Web3 and AI projects with React, Python, and TypeScript.
+- 👯 Collaborating on Web3 and AI projects with React, Flutter, Python, and TypeScript.
 - 💬 Ask me about web development 😅.
 - 📫 Reach me at: [olugbemiopedepo@gmail.com](mailto:olugbemiopedepo@gmail.com).
 - ⚡ Fun fact: Creating a digital twin will be fun!
