@@ -9,25 +9,25 @@ I develop mobile and web software, create technical content, and love contributi
 ### My Technical Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-404D59?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Rive](https://img.shields.io/badge/Rive-563D7C?style=for-the-badge&logo=rive&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0769AD?style=for-the-badge&logo=flutter&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-FF6F61?style=for-the-badge&logo=rive&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### What I'm Up To:
-- 🔭 I’m currently working on an agentic digital twin.
-- 🌱 I’m currently learning about Algorand and the Algorand community.
-- 👯 I’m looking to collaborate on Web3 and AI projects with React, Python, and TypeScript.
+- 🔭 Working on an agentic digital twin.
+- 🌱 Learning about Algorand and the Algorand community.
+- 👯 Collaborating on Web3 and AI projects with React, Python, and TypeScript.
 - 💬 Ask me about web development 😅.
-- 📫 How to reach me: [olugbemiopedepo@gmail.com](mailto:olugbemiopedepo@gmail.com).
+- 📫 Reach me at: [olugbemiopedepo@gmail.com](mailto:olugbemiopedepo@gmail.com).
 - ⚡ Fun fact: Creating a digital twin will be fun!
 
 ### GitHub Stats:
-[![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=coderhema)](https://github.com/coderhema)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderhema&layout=compact)](https://github.com/coderhema)
+![Coderhema's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderhema&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderhema&layout=compact&theme=radical)
