@@ -21,9 +21,9 @@ I develop mobile and web software, I also enjoy meeting new people and learning 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### What I'm Up To:
-- 🔭 Working on an agentic digital twin.
-- 🌱 Learning about Algorand and the Algorand community.
-- 👯 Collaborating on Web3 and AI projects with React, Flutter, Python, and TypeScript.
+- 🔭 Working on an agentic task twin.
+- ✂️ Building Clippify
+- 👯 Collaborating on AI projects with React, Flutter, Python, and TypeScript.
 - 💬 Ask me about web development 😅.
 - 📫 Reach me at: [olugbemiopedepo@gmail.com](mailto:olugbemiopedepo@gmail.com).
 - ⚡ Fun fact: Creating a digital twin will be fun!
