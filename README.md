@@ -1,7 +1,7 @@
 ## Hey! I'm Coderhema <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub Coderhema](https://img.shields.io/github/followers/coderhema?label=follow&style=social)](https://github.com/coderhema)
-[![Linkedin: Coderhema](https://img.shields.io/badge/Coderhema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderhema/)](https://www.linkedin.com/in/coderhema/)
+[![Linkedin: Linkedin](https://img.shields.io/badge/Coderhema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderhema/)](https://www.linkedin.com/in/timothyolu/)
 [![Twitter: Coderhema](https://img.shields.io/twitter/follow/coderhema?style=social)](https://twitter.com/coderhema)
 
 I develop mobile and web software, I also enjoy meeting new people and learning new things!
