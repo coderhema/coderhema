@@ -26,4 +26,4 @@ I develop mobile and web software, I also enjoy meeting new people and learning 
 - 👯 Collaborating on AI projects with React, Flutter, Python, and TypeScript.
 - 💬 Ask me about web development 😅.
 - 📫 Reach me at: [olugbemiopedepo@gmail.com](mailto:olugbemiopedepo@gmail.com).
-- ⚡ Fun fact: Creating a digital twin will be fun!
+- ⚡ Fun fact: Creating a digital twin i get paid for will be fun!
