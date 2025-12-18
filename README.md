@@ -17,7 +17,7 @@ I develop mobile and web software, I also enjoy meeting new people and learning 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Rive](https://img.shields.io/badge/Rive-FF6F61?style=for-the-badge&logo=rive&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Typescript-FF61F6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### What I'm Up To:
