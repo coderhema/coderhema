@@ -22,8 +22,8 @@ I develop mobile and web software, I also enjoy meeting new people and learning 
 
 ### What I'm Up To:
 - 🔭 Working on an agentic task twin.
-- ✂️ Building [Clippity](https://github.com/coderhema/Clippity)
+- ✂️ Building [Clippity](https://github.com/coderhema/Clippity), [Kri](https://github.com/coderhema/kri), [Dooga](https://github.com/coderhema/dooga)
 - 🤝🏾 Collaborating on AI projects with React, Flutter, Python, and TypeScript.
-- 💬 Ask me about web development 😅.
+- 💬 Ask me about web development, If you're a startup AI company reach out as well (I'm interested in working with you)
 - 📫 Reach me at: [olugbemiopedepo@gmail.com](mailto:olugbemiopedepo@gmail.com).
 - ⚡ Fun fact: Creating a digital twin i get paid for will be fun!
