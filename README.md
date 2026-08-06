@@ -4,7 +4,7 @@
 [![Linkedin: Linkedin](https://img.shields.io/badge/Coderhema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderhema/)](https://www.linkedin.com/in/timothyolu/)
 [![Twitter: Coderhema](https://img.shields.io/twitter/follow/coderhema?style=social)](https://twitter.com/coderhema)
 
-I develop mobile and web software, I also enjoy meeting new people and learning new things!
+I enjoy building new systems, meeting new people and learning new things! (it's nice to meet you reader, keep reading)
 
 ### My Technical Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,9 +21,9 @@ I develop mobile and web software, I also enjoy meeting new people and learning 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### What I'm Up To:
-- 🔭 Working on an agentic task twin.
-- ✂️ Building [Clippity](https://github.com/coderhema/Clippity), [Kri](https://github.com/coderhema/kri), [Dooga](https://github.com/coderhema/dooga)
-- 🤝🏾 Collaborating on AI projects with React, Flutter, Python, and TypeScript.
+- 🔭 Working on an agentic harness.
+- ✂️ Building [Clippity: a tool for video editing easily for free in social media apps](https://github.com/coderhema/Clippity), [Kri: an agentic operator and harness](https://github.com/coderhema/kri), [Dooga: something for multiplayer or multiusers](https://github.com/coderhema/dooga)
+- 🤝🏾 I'm interested in collaborating on AI projects with React, Flutter, Python, and TypeScript(because I design good interfaces as I also learnt about systems).
 - 💬 Ask me about web development, If you're a startup AI company reach out as well (I'm interested in working with you)
 - 📫 Reach me at: [olugbemiopedepo@gmail.com](mailto:olugbemiopedepo@gmail.com).
-- ⚡ Fun fact: Creating a digital twin i get paid for will be fun!
+- ⚡ Fun fact: I leaned into quant (what quant?, you'll have to email me to know 😏)!
